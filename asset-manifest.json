@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Phonebook-auth/static/css/main.3be06e44.css",
+    "main.js": "/Phonebook-auth/static/js/main.f3de306e.js",
+    "static/media/btn-delete.png": "/Phonebook-auth/static/media/btn-delete.bd8d811a432a340de3a2.png",
+    "index.html": "/Phonebook-auth/index.html",
+    "main.3be06e44.css.map": "/Phonebook-auth/static/css/main.3be06e44.css.map",
+    "main.f3de306e.js.map": "/Phonebook-auth/static/js/main.f3de306e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3be06e44.css",
+    "static/js/main.f3de306e.js"
+  ]
+}
